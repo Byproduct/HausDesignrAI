@@ -1,0 +1,99 @@
+adjusting ceiling height
+adjusting for seismic activity
+adjusting for wind load
+adjusting for wind shear
+aligning with landscape contours
+aligning with sun path
+analyzing airflow patterns
+analyzing building symmetry
+analyzing foundation strength
+analyzing local climate impact
+analyzing natural light paths
+analyzing roof drainage systems
+analyzing temperature zones
+assessing conformity with regulations
+assessing natural disaster readiness
+assessing rainwater harvesting
+assessing solar orientation
+assessing thermal efficiency
+balancing HVAC efficiency
+balancing space usage
+calculating door clearance
+calculating floor height and depth
+calculating geometry
+calculating structural stress points
+calculating window placement
+checking smart home compatibility
+checking wall insulation thickness
+choosing colors
+choosing floor tiles
+choosing room layouts
+comparing building codes
+configuring flexible living areas
+configuring wireless network coverage
+considering aesthetics
+considering fire safety
+considering future expansions
+considering local wildlife impact
+considering materials
+considering sunroom layout
+designing flexible room partitions
+designing for geothermal heating
+designing modular components
+designing multi-purpose spaces
+designing outdoor space
+designing passive cooling strategies
+designing plumbing routes
+designing rain gardens for runoff
+determining insulation needs
+determining optimal roof materials
+determining wall thickness
+estimating carbon footprint
+estimating construction timeline
+estimating heat loss through windows
+estimating indoor air quality
+estimating material lifespans
+evaluating roof pitch
+estimating roof solar panel capacity
+estimating soundproofing needs
+evaluating flood risk
+evaluating home expansion potential
+evaluating noise reduction strategies
+evaluating window insulation
+incorporating accessibility features
+modeling energy efficiency
+modeling ergonomic design
+modeling for storm resilience
+modeling roof snow load capacity
+modeling thermal mass behavior
+optimizing acoustics
+optimizing appliance placement
+optimizing floor plan
+optimizing for natural ventilation
+optimizing living room arrangement
+planning attic ventilation
+planning electrical circuits
+planning emergency exits
+planning for solar heating systems
+planning skylight positioning
+planning smart home integration
+planning solar panel placement
+planning storage solutions
+planning utility room layout
+selecting lighting fixtures
+selecting sustainable materials
+simulating earthquake-safe materials
+simulating electrical load capacity
+simulating fire sprinkler efficiency
+simulating heat retention
+simulating impact on skyline
+simulating rainfall drainage
+simulating smart thermostat behavior
+simulating structural loads
+simulating wind resistance
+verifying earthquake resistance
+verifying energy compliance ratings
+verifying load-bearing walls
+verifying structural integrity
+verifying ventilation systems
+verifying wall framing strength
