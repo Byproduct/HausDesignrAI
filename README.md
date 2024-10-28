@@ -2,7 +2,7 @@
 
 Source code for the "Haus Designr AI" demo at Alternative Party 2024
 
-"Making of" article to go with the source code
+"Making of" article
 https://byproductmusic.com/portfolio/txt/HausDesignr/
 
 Demo recording
